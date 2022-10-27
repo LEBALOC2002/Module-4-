@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="de4b36f9-ea9b-441c-9ae7-fb28b1e4c0ff" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/email-validate-maven/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/email-validate-maven/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/email-validate-maven/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/email-validate-maven/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/email-validate-maven/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/email-validate-maven/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/email-validate-maven/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tổng quan Spring MVC/simple-dictionary/src/main/java/services/DictionaryServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tổng quan Spring MVC/customer-management" beforeDir="false" afterPath="$PROJECT_DIR$/../Tổng quan Spring MVC/customer-management" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tổng quan Spring MVC/spring-greeting/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../Tổng quan Spring MVC/spring-greeting/build.gradle" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2GfAtXbjw54XwNgcLEhFuqhr8hY" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "D:/Module-4-/2. Spring Controller"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="de4b36f9-ea9b-441c-9ae7-fb28b1e4c0ff" name="Changes" comment="" />
+      <created>1666769484107</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1666769484107</updated>
+      <workItem from="1666769486114" duration="41000" />
+    </task>
+    <servers />
+  </component>
+</project>
